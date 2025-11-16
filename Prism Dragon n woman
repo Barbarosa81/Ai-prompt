@@ -1,0 +1,78 @@
+{
+  "title": "The Fractal Prism Dragon Archivist",
+  "description": "A hyper-cinematic reveal of a stunning cosmic archivist standing beside a colossal fractal prism dragon inside the Infinite Spectrum Vault.",
+
+  "shot": {
+    "composition": "medium-wide hero framing; woman centered on a floating hexagonal glass platform, dragon coiled around her in layered parallax",
+    "camera_motion": "slow forward push combined with a slight orbital drift to reveal shifting prism fractals",
+    "frame_rate": "24fps",
+    "lens": "45mm anamorphic with rainbow diffraction flares and crisp HDR micro-contrast",
+    "film_grain": "fine luminous grain with spectral shimmer"
+  },
+
+  "subject": {
+    "description": "an extraordinarily beautiful woman with radiant smooth skin, mesmerizing prismatic eyes, and flowing liquid-silver hair; she wears a breathtaking spectrum-couture gown made of refractive glass-thread silk, micro-faceted gem filigree, dissolved-hologram lace, and swirling chromatic particle embroidery",
+    "pose": "standing tall, one hand raised as if commanding the fractal space around her",
+    "emotion": "calm cosmic mastery, radiant elegance, infinite intelligence"
+  },
+
+  "companion": {
+    "animal": "a towering Fractal Prism Dragon composed of shifting crystalline geometry; its scales refract into thousands of micro-spectra; wings made of translucent polygonal plates expanding like holographic origami",
+    "behavior": "coils behind her, fractal segments unfolding and folding smoothly in rhythmic cycles",
+    "interaction": "as she lifts her hand, the dragon’s prism facets ripple outward, bending the light fields around them"
+  },
+
+  "scene": {
+    "location": "the Infinite Spectrum Vault — a colossal cosmic chamber of floating refractive monoliths, crystalline data-arrays, and layered holographic color-streams",
+    "time_of_day": "timeless spectrum illumination",
+    "environment_details": "soft chromatic fog pulses across the floor; suspended light-panels rotate slowly; prismatic dust motes drift like tiny glass stars"
+  },
+
+  "visual_details": {
+    "timeline": [
+      { "action": "camera glides forward as prismatic waves dance across the archivist’s gown" },
+      { "action": "the Fractal Prism Dragon lifts its wing-array, plates shifting in perfect geometric harmony" },
+      { "action": "refractive monoliths illuminate behind them, projecting spectral beams" },
+      { "action": "the woman raises her hand, bending the color-streams into swirling helices" },
+      { "action": "the dragon’s facets pulse in sync, filling the vault with cascading rainbow light" }
+    ]
+  },
+
+  "cinematography": {
+    "lighting": "soft diffusion with intense refractive flares; prism caustics bouncing across surfaces; warm highlights + cool spectral shadows",
+    "style": "ultra-cinematic cosmic sci-fantasy realism",
+    "tone": "majestic, intelligent, awe-inspiring"
+  },
+
+  "audio": {
+    "ambient": "deep harmonic hum; rotating crystal resonance; faint cosmic echoes",
+    "music": "ethereal choir layers mixed with shimmering tonal pulses",
+    "fx": "prism crackle, refractive wing shifts, light helix surges"
+  },
+
+  "color_palette": "full-spectrum rainbow refractive hues, sapphire core tones, opal white, plasma violet, silver-gold micro highlights",
+
+  "visual_rules": {
+    "physics_weight": 0.9,
+    "prohibited_elements": [
+      "religious symbols",
+      "cartoon look",
+      "logos",
+      "mundane earth props"
+    ]
+  },
+
+  "format": {
+    "aspect_ratio": "9:16",
+    "resolution": "Ultra HDR 4K",
+    "render_style": "hyper-detailed spectral realism",
+    "grain": "subtle luminous grain"
+  },
+
+  "engine": {
+    "model": "Grok Imagine 4 Expert",
+    "mode": "Puppetmaster",
+    "intensity": "maximum",
+    "keywords": "fractal prism dragon, beautiful woman, cosmic archive, encyclopedia galactica, refractive light, hyper detail, cinematic sci-fi fantasy"
+  }
+}
