@@ -1,0 +1,39 @@
+{
+  "prompt": {
+    "scene_description": "A beautiful young woman is sitting on a bed in a softly lit bedroom, holding a plush,big brown teddy bear. The atmosphere is cozy, calm, and slightly playful.",
+    "subject_description": {
+      "identity_reference": "use reference photo",
+      "gender": "female",
+      "pose": "sitting upright on a bed, facing the camera, holding a teddy bear with both hands.)",
+      "facial_expression": "Sweet Smile directed toward the camera",
+      "hairstyle": "long, wavy, dark hair tied in a bun, and a little messy loose hair falling onto her face",
+      "clothing": "luxurious satin or ivory camisole clothing featuring thin straps and a delicate pattern",
+      "accessories": "small earrings and a subtle bracelet"
+    },
+    "object_details": {
+      "teddy_bear": "large, brown, fluffy bear with black nose and embroidered eyes, held gently in the subject's arms"
+    },
+    "environment": {
+      "location_type": "luxury apartment bedroom",
+      "furniture": "white or cream bed with a padded headboard",
+      "lighting": "soft warm lighting from a bedside lamp placed behind the subject",
+      "color_palette": "neutral tones including beige, white, cream, and soft pink"
+    },
+    "camera_details": {
+      "angle": "front-facing portrait shot",
+      "lens": "canon EOS R5"
+      "framing": "upper half of the body centered in the frame, teddy bear included",
+      "focus": "sharp focus on the face and upper body, background softly blurred"
+    },
+    "style_options": {
+      "photography_style": "soft, lifestyle portrait with warm ambient light",
+      "mood": "soft,bokeh,cinematic,intimate, cute, relaxed, cozy"
+}, 
+  "text": {
+  "text_style": "little and transparent", 
+  "text_element": "Clarissa"
+  "font_text": "gabrilya", 
+  "place": "in the bottom left corner"
+    }
+  }
+}
