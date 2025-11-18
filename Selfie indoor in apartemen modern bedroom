@@ -1,0 +1,59 @@
+{
+  "title": "Casual Indoor Selfie Scene",
+  "description": "A young adult woman taking a high-angle selfie in a bright, apartement modern bedroom.He has a pretty big chest",
+  "subject": {
+    "identity_reference": "use reference photo", 
+    "type": "person",
+    "gender_appearance": "female",
+    "age_appearance": "young adult",
+    "ethnicity_appearance": "Asian-appearing",
+    "pose": "standing, arm extended upward holding the camera, looking up and his right hand poses a V near his face.)",
+    "facial_expression": "playful with a soft smile",
+    "clothing": {
+      "top": "white tank top",
+      "bottom": "light gray shorts"
+    },
+    "hair": {
+      "length": "long",
+      "color": "dark brown or black",
+      "style": "wavy, loose"
+    },
+    "makeup": "subtle with defined eyeliner and soft blush"
+  },
+  "camera": {
+    "angle": "high-angle selfie",
+    "lens": "wide-angle appearance due to arm’s-length selfie perspective",
+    "framing": "top-down, close-up on face and upper body",
+    "lighting": "natural daylight, soft and even"
+  },
+  "environment": {
+    "setting": "apartement bedroom",
+    "furniture": [
+      "white bed with textured bedding",
+      "light-colored sofa in background"
+    ],
+    "objects": [
+      "open laptop on the bed",
+      "tablet or phone propped up beside the laptop"
+    ],
+    "floor": "light-colored wooden flooring with a textured rug"
+  },
+  "mood": "casual, relaxed, playful",
+  "color_palette": [
+    "white",
+    "light gray",
+    "soft neutrals",
+    "dark hair tones"
+  ],
+  "style": {
+    "image_type": "photograph",
+    "aesthetic": "bokeh, clean, minimalistic, modern",
+    "tone": "natural and candid"
+}, 
+"text": {
+"text_style": "little, transparent, elegant", 
+"text_element": "Clarissa", 
+"font_text": "gabrilya", 
+"place": "bottom left corner"
+  }
+}
