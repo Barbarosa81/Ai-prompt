@@ -1,0 +1,74 @@
+{
+  "subjects": {
+    "adult": {
+      "identity_reference": "use reference photo",
+      "description": "A beautiful young woman standing in a cannabis fàrm sunlit field during golden hour.",
+      "pose": "Side profile, take a look at the cannabis farm while gently holding or examining Cannabisflowers.(",
+      "clothing": {
+        "top": "Loose-fitting short-sleeve grey T-shirt",
+        "bottom": "Shorts in a muted earthy tone"
+      },
+      "lighting_interaction": "The woman's hair and outline are softly illuminated by warm, low-angle sunlight, creating a halo-like rim light."
+    },
+    "background_figure": {
+      "description": "An adult figure blurred in the distance, partially obscured by depth of field.",
+      "pose": "Standing upright, facing the woman, but not clearly visible.",
+      "purpose": "Adds storytelling depth and scale without drawing attention."
+    }
+  },
+  "environment": {
+    "location_type": "Open field or meadow with tall dry grasses and wildflowers.",
+    "time_of_day": "Golden hour near sunset.",
+    "background": [
+      "Layers of soft hills or forested silhouettes",
+      "Warm, hazy atmosphere with long shadows"
+    ],
+    "lighting": {
+      "quality": "Warm, cinematic, backlit sunlight",
+      "mood": "Soft, nostalgic, tranquil",
+      "effects": [
+        "Strong rim lighting around the child",
+        "Gentle haze and natural bokeh"
+      ]
+    }
+  },
+  "photography_style": {
+    "composition": "Woman in the foreground with large depth-of-field separation from the background figure.",
+    "camera_angle": "Eye level or slightly lower, enhancing the child’s presence in the frame.",
+    "color_palette": "Warm browns, golds, and muted earth tones.",
+    "mood": "Dreamy, intimate, cinematic, nostalgic.",
+    "visual_effects": [
+      "Soft shadows",
+      "Low contrast in background",
+      "Golden glow around subject"
+    ]
+  },
+  "style_keywords": [
+    "golden hour photography",
+    "cinematic natural light",
+    "woman in nature",
+    "soft focus background",
+    "emotional storytelling",
+    "warm atmospheric tones"
+  ],
+  "instructions": {
+    "use_cases": [
+      "cinematic outdoor portrait generation",
+      "nostalgic family scenes",
+      "fine art nature photography themes",
+      "storytelling imagery with depth"
+    ],
+    "customizable_fields": [
+      "time of day",
+      "adult’s clothing",
+      "background scenery",
+      "lighting warmth",
+      "camera angle",
+      "foreground cannabisflower density"
+    ], 
+"text": {
+"text_style": "little transparent and elegant", 
+"text_element": "kanji carachter", 
+"place": "bottom right corner"
+  }
+}
