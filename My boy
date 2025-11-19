@@ -1,0 +1,58 @@
+{
+  "prompt": "A cinematic portrait of a young woman and a child seated in the back of a luxury car, illuminated by soft natural light filtering through the windows. The woman has long, softly cascading wavy hair and a serene, confident expression. She wears a dark textured outfit that contrasts elegantly with the cream-toned interior. The child leans affectionately against her shoulder, creating a tender emotional connection. Both are buckled in, adding realism and authenticity. The car interior features premium leather upholstery, a sleek center console, and subtle reflections from polished surfaces. Outside the windows, palm trees blur into a soft bokeh, evoking a coastal, sunlit atmosphere.",
+  "style": {
+    "cinematic_grade": "warm soft tones, subtle teal-and-orange highlights",
+    "lighting": "diffused daylight with gentle rim light and interior reflections",
+    "mood": "intimate, emotional, calm, premium",
+    "camera": {
+      "lens": "50mm prime, slightly shallow depth of field",
+      "angle": "eye-level, intimate framing",
+      "framing": "tight medium shot",
+      "focus": "sharp on faces, soft background bokeh"
+    },
+    "effects": {
+      "bokeh": "soft, creamy background bokeh through car windows",
+      "grain": "light cinematic grain",
+      "contrast": "high dynamic range with soft blacks"
+    }
+  },
+  "subjects": [
+    {
+      "type": "adult",
+      "identity_reference": "use reference photo 1",
+      "gender": "female",
+      "appearance": {
+        "hair": "long wavy black hair with soft highlights",
+        "clothing": "dark, textured, elegant outfit"
+      },
+      "pose": "relaxed, hand resting on face, subtle smile.)"
+    },
+    {
+      "type": "child",
+      "identity_reference": "use reference photo 2",
+      "gender": "male",
+      "appearance": {
+        "hair": "short balck hair",
+        "clothing": "navy shirt with white graphic design"
+      },
+      "pose": "leaning gently on the adult, warm expression"
+    }
+  ],
+  "environment": {
+    "setting": "luxury automobile interior",
+    "details": [
+      "cream leather seating",
+      "sleek center console",
+      "seat belts fastened",
+      "palm trees visible through glass with natural motion blur"
+    ],
+    "atmosphere": "elevated lifestyle aesthetic with a cinematic softness"
+  },
+  "additional_instructions": "Render in ultra-realistic cinematic style similar to high-end film stills. Emphasize emotional warmth and premium visual aesthetics."
+}, 
+"text": {
+"text_style": "little and transparent text", 
+"text_element": "Clarissa", 
+"font_text": "gabrilya", 
+"place": "bottom left corner"
+}
