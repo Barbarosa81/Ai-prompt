@@ -1,0 +1,38 @@
+{
+  "prompt": "close-up portrait of a beautiful woman with soft facial features, long wavy dark hair with tousled strands framing her face, natural dewy skin, glossy lips, subtle warm makeup, gentle expression, looking slightly downward; dreamy cinematic softness; shallow depth of field; warm diffused rim light on the side of her face; early-evening blue ambient lighting in the background; delicate bokeh; smooth pastel tones; emotional, intimate, atmospheric mood; soft-focus photography aesthetic; film-like texture",
+  "subject": {
+  "identity_reference": "use reference photo", 
+  "gender": "female", 
+  "age_range": "23s to eraly 25s"
+},
+  "style_modifiers": [
+    "cinematic lighting",
+    "dreamy atmosphere",
+    "soft-focus lens",
+    "35mm film aesthetic",
+    "pastel color palette",
+    "bokeh depth of field",
+    "moody portrait photography"
+  ],
+
+  "camera_settings": {
+    "lens": "85mm prime",
+    "aperture": "f/1.4",
+    "focus": "eyes sharp, edges soft",
+    "shot_type": "close-up portrait"
+  },
+
+  "quality": {
+    "version": "v6",
+    "ar": "3:4",
+    "style": "raw",
+    "quality": "1"
+}, 
+"text": {
+"text_style": "little transparent and elegant", 
+"text_element": "Clarissa", 
+"font_text": "gabrilya", 
+"place": "bottom left corner"
+  }
+  }
+}
