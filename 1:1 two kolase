@@ -1,0 +1,61 @@
+{
+  "image_description": {
+    "overall_composition": "A clean, minimalist 2x2 collage featuring the same young woman",
+    "subject": {
+      "identity_reference": "use reference photo",
+      "age_range": "25s to early 28s", 
+      "gender": "female"
+}, 
+     "appearance": {
+        "hair": "Long, wavy dark hair, adding movement and edge"
+      },
+      "attire": {
+        "top": "Fitted white sports-style crop-top,and it looks like her large cleavage is visible",
+        "bottoms": "Loose black pants that sit low on the hips",
+        "accessories": "Sometimes styled with suspenders hanging or wrapped around her arms"
+      }
+    },
+    "environment": {
+      "setting": "Bright white studio corner",
+      "lighting": "Soft, diffused, natural lighting, creating gentle shadows on the white walls"
+    },
+    "frames": {
+      "top_left": {
+        "pose": "Sitting wide-legged on the floor, leaning slightly forward with a confident expression, hands framing her face.(",
+        "details": "Hair slightly messy for a dynamic, raw look"
+      },
+      "top_right": {
+        "pose": "Standing sideways near the wall, arms raised above her head, highlighting her toned torso.()",
+        "details": "Hair falls across part of her face, creating a dramatic, editorial feel"
+      },
+      "bottom_left": {
+        "pose": "Kneeling with suspenders pulled across her torso playfully.)(",
+        "expression": "Bright, natural smile",
+        "details": "Relaxed yet expressive pose"
+      },
+      "bottom_right": {
+        "pose": "Stretching upward with arms fully extended, hair lifting from movement.(",
+        "details": "Body elongated in a clean, sculptural pose against the white background"
+      }
+    },
+    "visual_style": {
+      "lighting": "Soft shadows, clean highlights",
+      "tones": "Matte tones",
+      "atmosphere": "Natural editorial atmosphere",
+      "aspect_ratio": "1:1 per frame, arranged in a 2x2 grid",
+      "camera_settings": {
+        "lens": "35mm",
+        "aperture": "f/2.5",
+        "iso": "250",
+        "shutter_speed": "1/200s"
+      },
+      "overall_look": "Minimalist high-fashion collage with soft natural light and expressive movement"
+}, 
+"text": {
+"text_style": "little transparent and elegant", 
+"text_element": "Clarissa", 
+"font_text": "gabrilya",
+"place": "bottom left corner" 
+    }
+  }
+}
