@@ -1,0 +1,46 @@
+{
+  "image_description": {
+    "resolution": "Ultra-definition 8K",
+    "type": "Portrait",
+    "subject": {
+      "identity_reference": "use reference photo",
+      "age_range": "25s to early 28s", 
+     "gender": "Woman",
+      "pose": "Seated elegantly on a black grand piano, head slightly tilted back, intense gaze.",
+      "expression": "Regal and confident",
+      "attire": {
+        "top": "Fitted white satin top adorned with cascading pearl layers, and it looks her large cleavage is visible",
+        "bottom": "Fitted white satin skirt flowing over legs",
+        "accessories": [
+          "Multiple pearl chokers",
+          "Long pearl necklaces",
+          "Pearl bracelets",
+          "Long white satin opera gloves"
+        ]
+      },
+      "hair": "Elegant updo with soft volume and subtle waves framing the face",
+      "makeup": "Bold brows, smoky eyes, voluminous lashes, warm eyeshadow, contoured cheeks, matte lips",
+      "constraint": "Do not change the face"
+    },
+    "environment": {
+      "setting": "Luxurious room",
+      "lighting": "Dramatic and warm, highlighting the satin, pearls, and skin",
+      "focal_point": "White grand piano",
+      "background": "Sharply defined, softly lit luxurious room with details like velvet curtains, gilded furniture, and soft lamps",
+      "constraint": "Do not blur the background"
+    },
+  "camera_settings": {
+        "lens": "Nikon D5600,55mm",
+        "aperture": "f/1.7",
+        "iso": "250",
+        "shutter_speed": "1/200s"
+      },
+    "atmosphere": "Luxury, timeless elegance, and couture artistry"
+}, 
+"text": {
+"text_style": "little transparent and elegant", 
+"text_element": "Clarissa", 
+"font_text": "gabrilya",
+"place": "bottom left corner" 
+  }
+}
