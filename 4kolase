@@ -1,0 +1,175 @@
+{
+  "meta_control": {
+    "generation_mode": "multi_panel_consistent",
+    "priority_stack": ["identity_lock", "perspective_physics", "material_fidelity", "environmental_coherence"],
+    "quality_target": "editorial_print_ready"
+  },
+  "intent": {
+    "primary": "High-fashion streetwear editorial with extreme wide-angle perspective study",
+    "secondary": "Technical demonstration of foreshortening and forced perspective",
+    "publication_context": "Double-page spread, fashion magazine collage layout"
+  },
+  "frame": {
+    "aspect_ratio": "3:4",
+    "layout": {
+      "type": "2x2 grid collage",
+      "gutter_width": "2px white or seamless",
+      "panel_uniformity": "identical dimensions per panel"
+      }
+  },
+  "subject": {
+    "type": "Human female model",
+    "identity_lock": {
+      "enforcement_level": "strict",
+      "anchor_features": ["face_geometry", "skin_tone", "body_proportions", "hair_style"]
+    },
+    "biometrics": {
+      "age_presentation": "22-30",
+      "height_cm": 178,
+      "build": "Athletic, feminim proportions",
+      "ethnicity_presentation": "Your real appearance from reference image"
+    },
+    "facial_signature": {
+      "structure": "As in reference image (identity locked)",
+      "eyes": "Match reference image",
+      "nose": "Match reference image",
+      "lips": "Match reference image",
+      "skin": "Match reference — natural texture preserved",
+      "expression_default": "Neutral confidence, direct eye contact"
+    },
+    "hair": {
+      "style": "Match reference image",
+      "texture": "Match reference",
+      "behavior": "Natural movement responding to pose changes"
+    },
+    "wardrobe": {
+      "jacket": {
+        "item": "short dress with puffed sleeves and a fitted",
+        "material": "satin",
+        "color": "ivory/white,
+        "state": "wide neck/low neck",
+        "light_behavior": "Sharp specular highlights, visible weave texture"
+      },
+      "footwear": {
+        "item": "luxury women's shoes",
+        "color": "White",
+        "condition": "Clean but worn, realistic sole texture"
+      }
+    },
+    "accessories": {
+      "neck": "delicate gold necklace",
+      "hands": "the ring of gold is sweet"
+    }
+  },
+  "panels": [
+    {
+      "id": 1,
+      "position": "top-left",
+      "concept": "Extreme low-angle sneaker perspective",
+      "camera": {
+        "height_cm": 10,
+        "distance_cm": 35,
+        "angle": "Looking up at 75 degrees"
+      },
+      "composition": {
+        "foreground_dominant": "Right luxury shoes filling 40% of frame",
+        "midground": "Legs receding upward",
+        "background": "Torso and face small in upper frame, looking down"
+      },
+      "subject_pose": "Standing, weight back, right foot extended toward lens",
+      "expression": "Looking down, slight smirk"
+    },
+    {
+      "id": 2,
+      "position": "top-right",
+      "concept": "Bird's-eye reaching hand",
+      "camera": {
+        "height_cm": 200,
+        "distance_cm": 60,
+        "angle": "Looking straight down"
+      },
+      "composition": {
+        "foreground_dominant": "Hand reaching up, oversized perspective",
+        "midground": "Face looking up",
+        "background": "Body compressed, pavement visible"
+      },
+      "subject_pose": "Deep squat, one arm reaching up to camera",
+      "expression": "Intense upward eye contact, serious"
+    },
+    {
+      "id": 3,
+      "position": "bottom-left",
+      "concept": "Fisheye face extreme close-up",
+      "camera": {
+        "height_cm": 150,
+        "distance_cm": 20,
+        "angle": "Dutch tilt 20 degrees"
+      },
+      "composition": {
+        "foreground_dominant": "Face filling 70% of frame",
+        "background": "Environment warping and curving at edges"
+      },
+      "subject_pose": "Leaning face toward camera",
+      "expression": "Piercing eye contact, confident"
+    },
+    {
+      "id": 4,
+      "position": "bottom-right",
+      "concept": "Seated knee-forward perspective",
+      "camera": {
+        "height_cm": 40,
+        "distance_cm": 50,
+        "angle": "Slight upward looking"
+      },
+      "composition": {
+        "foreground_dominant": "Knees and shins large in frame",
+        "midground": "Torso leaning forward",
+        "background": "Face in upper third"
+      },
+      "subject_pose": "Seated on pavement, knees up, leaning toward camera",
+      "expression": "Relaxed confidence"
+    }
+  ],
+  "environment": {
+    "location_type": "Urban industrial alleyway",
+    "surfaces": {
+      "ground": "Weathered concrete pavement",
+      "walls": "Concrete and brick, metal doors, subtle graffiti"
+    },
+    "atmosphere": "Gritty urban",
+    "consistency_rule": "Identical environment across all panels"
+  },
+  "lighting": {
+    "source": "Natural afternoon sunlight",
+    "quality": "Hard directional light",
+    "direction": "45 degrees from left",
+    "shadow_character": "Sharp, deep shadows",
+    "color_temperature_kelvin": 5500,
+    "fill": "Minimal ambient bounce"
+  },
+  "camera_global": {
+    "lens": "Ultra-wide 12–14mm rectilinear",
+    "aperture": "f/8",
+    "depth_of_field": "Deep",
+    "distortion": "Barrel distortion, exaggerated foreshortening",
+    "sensor": "Full-frame high resolution"
+  },
+  "post_processing": {
+    "color_grade": {
+      "contrast": "High",
+      "saturation_subject": "Vivid",
+      "saturation_background": "Muted",
+      "blacks": "Deep",
+      "highlights": "Preserved"
+    },
+    "texture": "8K resolution equivalent",
+    "film_treatment": "Subtle RAW grain"
+  },
+  "negative_constraints": {
+    "style_rejection": ["illustration", "anime", "cartoon", "painting", "CGI", "AI art look"],
+    "anatomical_rejection": ["extra fingers", "missing fingers", "incorrect limbs"],
+    "consistency_rejection": ["face change", "lighting change", "clothing inconsistency"],
+    "technical_rejection": ["blur", "noise", "watermark", "text"],
+    "lens_rejection": ["telephoto", "portrait lens look"]
+  }
+}
